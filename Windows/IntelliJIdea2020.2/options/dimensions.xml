@@ -1,0 +1,12 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="690" y="133" />
+    <location key="#Plugins.0.0.1920.1080@120dpi" x="106" y="59" />
+    <location key="#HTTP_Proxy.0.0.1920.1080@120dpi" x="336" y="151" />
+    <location key="#Browse_Repositories.0.0.1920.1080@120dpi" x="91" y="55" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="326" y="0" />
+    <location key="SettingsEditor.0.0.1920.1080@150dpi" x="326" y="0" />
+    <size key="SettingsEditor.0.0.1920.1080@150dpi" width="1273" height="1033" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1273" height="1020" />
+  </component>
+</application>

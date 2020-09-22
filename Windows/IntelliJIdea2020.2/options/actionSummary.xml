@@ -1,0 +1,72 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$SelectAll">
+        <ActionSummary times="8" last="1598617869751" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="1" last="1598617497440" />
+      </entry>
+      <entry key="About">
+        <ActionSummary times="1" last="1598613852086" />
+      </entry>
+      <entry key="CloseProject">
+        <ActionSummary times="1" last="1598613981032" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="49" last="1598617890723" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="1" last="1598617508778" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="2" last="1598617496195" />
+      </entry>
+      <entry key="Register">
+        <ActionSummary times="1" last="1598613970441" />
+      </entry>
+      <entry key="WelcomeScreen.Configure.ProjectStructure">
+        <ActionSummary times="1" last="1598617956646" />
+      </entry>
+      <entry key="WelcomeScreen.ManageLicense">
+        <ActionSummary times="4" last="1600749681519" />
+      </entry>
+      <entry key="WelcomeScreen.Plugins">
+        <ActionSummary times="5" last="1600749694020" />
+      </entry>
+      <entry key="WelcomeScreen.Settings">
+        <ActionSummary times="2" last="1598617611886" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.PluginManagerConfigurable$3">
+        <ActionSummary times="1" last="1598614129872" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.newui.ListPluginComponent$4">
+        <ActionSummary times="2" last="1600749606313" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+        <ActionSummary times="2" last="1598614128027" />
+      </entry>
+      <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$10">
+        <ActionSummary times="2" last="1598617891318" />
+      </entry>
+      <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$12">
+        <ActionSummary times="2" last="1598617913940" />
+      </entry>
+      <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$15">
+        <ActionSummary times="1" last="1598617926243" />
+      </entry>
+      <entry key="com.intellij.openapi.vfs.encoding.ChooseFileEncodingAction$1">
+        <ActionSummary times="2" last="1598617796041" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
+        <ActionSummary times="1" last="1600749544827" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$2">
+        <ActionSummary times="13" last="1600749861249" />
+      </entry>
+      <entry key="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+        <ActionSummary times="2" last="1598617988657" />
+      </entry>
+    </data>
+  </component>
+</application>
